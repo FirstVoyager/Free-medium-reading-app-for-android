@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Free medium reading app</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="icon">Icon</string>
+    <string name="medium_main_page">Medium main page</string>
+    <string name="by_article_link">By article link</string>
+    <string name="by_category">By category</string>
+    <string name="medium">Medium</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="content_is_loading">Content is loading</string>
+    <string name="startup">Startup</string>
+    <string name="life">Life</string>
+    <string name="life_lessions">Life Lessons</string>
+    <string name="politics">Politics</string>
+    <string name="travel">Travel</string>
+    <string name="poetry">Poetry</string>
+    <string name="entrepreneurship">Entrepreneurship</string>
+    <string name="education">Education</string>
+    <string name="health">Health</string>
+    <string name="love">Love</string>
+    <string name="design">Design</string>
+    <string name="writing">Writing</string>
+    <string name="technology">Technology</string>
+    <string name="self_improvement">Self Improvement</string>
+    <string name="business">Business</string>
+    <string name="music">Music</string>
+    <string name="social_media">Social Media</string>
+    <string name="sports">Sports</string>
+    <string name="food">Food</string>
+    <string name="art">Art</string>
+    <string name="article_link">Article link</string>
+    <string name="read_article">Read article</string>
+    <string name="please_enter_valid_link">Please enter valid link</string>
+</resources>

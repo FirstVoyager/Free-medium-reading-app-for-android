@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="medium_radius">8dp</dimen>
+    <dimen name="medium_elevation">4dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="main_item_icon_height">54dp</dimen>
+    <dimen name="margin_start_subjects">62dp</dimen>
+    <dimen name="subject_height">45dp</dimen>
+</resources>
